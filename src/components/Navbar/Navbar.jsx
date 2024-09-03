@@ -15,7 +15,7 @@ const Navbar = ({ onSearch }) => {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid">
         <h1 className="navbar-brand">
-          GutkaApp
+          Restro Guru
         </h1>
         <button
           className="navbar-toggler"
